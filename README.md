@@ -11,7 +11,7 @@
   <a href="https://github.com/your-username">
     <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" />
   </a>
-  <a href="https://www.linkedin.com/in/prabesh-khatiwada">
+  <a href="https://www.linkedin.com/in/prabesh-khatiwada-13638a257/">
     <img src="https://img.shields.io/badge/LinkedIn-Prabesh%20Khatiwada-blue?logo=linkedin&style=flat-square" />
   </a>
   <a href="https://your-portfolio-link.com">
