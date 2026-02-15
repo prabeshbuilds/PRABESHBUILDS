@@ -70,6 +70,6 @@
 🎤 Available for **Guest Sessions**  
 🤝 Open to **Project Collaboration**  
 💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [prabesh@example.com](mailto:prabesh@example.com)
+📧 Let’s chat: [prabeshser407@gmail.com](mailto:prabesh@example.com)
 
 > *"Helping people build and automate the future with real-world DevOps and backend solutions. Let’s create scalable, efficient systems together!"*
