@@ -27,7 +27,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/your-username](https://github.com/your-username)  
 - 💬 Ask me about **DevOps, Linux, Django, Cloud, and Automation**  
-- 📫 How to reach me **prabesh@example.com**
+- 📫 How to reach me **prabeshuser407@.com**
 
 ---
 
