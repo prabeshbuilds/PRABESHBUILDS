@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey Everyone 👋, I'm Prabesh Khatiwada</h1>
+<h1 align="center">Prabesh Khatiwada</h1>
 
 <div align="center">
   <img src="https://github.com/your-username/your-repo/blob/main/Banner.png" alt="DevOps & Backend Banner">
@@ -26,7 +26,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/your-username](https://github.com/your-username)  
-- 💬 Ask me about **DevOps, Linux,Java, Nodejs, Reactjs,Django, Cloud, and Automation**  
+- 💬 Ask me about **DevOps, Linux, Java, Nodejs, Reactjs,Django, Cloud, and Automation**  
 - 📫 How to reach me **prabeshuser407@.com**
 
 ---
