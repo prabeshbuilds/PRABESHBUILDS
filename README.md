@@ -26,7 +26,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/your-username](https://github.com/your-username)  
-- 💬 Ask me about **DevOps, Linux, Django, Cloud, and Automation**  
+- 💬 Ask me about **DevOps, Linux,Java, Nodejs, Reactjs,Django, Cloud, and Automation**  
 - 📫 How to reach me **prabeshuser407@.com**
 
 ---
@@ -69,7 +69,7 @@
 
 🎤 Available for **Guest Sessions**  
 🤝 Open to **Project Collaboration**  
-💼 Offering **DevOps Consulting / Mentorship**  
+💼 Offering **DevOps & Cloud**  
 📧 Let’s chat: [prabeshser407@gmail.com](mailto:prabesh@example.com)
 
 > *"Helping people build and automate the future with real-world DevOps and backend solutions. Let’s create scalable, efficient systems together!"*
