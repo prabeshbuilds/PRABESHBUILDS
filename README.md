@@ -26,7 +26,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/your-username](https://github.com/your-username)  
-- 💬 Ask me about **DevOps, Linux, Java, Nodejs, Reactjs,Django, Cloud, and Automation**  
+- 💬 Ask me about **DevOps, Linux, Java, Nodejs, React.js,Django, Cloud, and Automation**  
 - 📫 How to reach me **prabeshuser407@.com**
 
 ---
