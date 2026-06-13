@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prabesh Dahal</h1>
+<h1 align="center">Hi 👋, I'm Prabesh Khatiwada</h1>
 
 <h3 align="center">
 DevOps Engineer | Cloud & Infrastructure Enthusiast
@@ -22,11 +22,13 @@ Building scalable, automated, and cloud-native systems using AWS, Kubernetes, an
 
 ## 🛠️ Tech Stack
 
-**Cloud & Infra:** AWS, Terraform, Ansible, CloudFormation  
+**Cloud & Infra:** AWS, Terraform, Ansible 
 **Containers:** Docker, Kubernetes, Helm  
-**CI/CD:** GitHub Actions, Jenkins, GitLab CI  
-**Languages:** Python, Bash, Go  
+**CI/CD:** GitHub Actions, Jenkins, GitLab CI
+**Monitoring:**Prometheus and grafana
+**Languages:** Python,Node, Bash, Go 
 **Tools:** Linux, Git, GitHub, VS Code  
+
 
 ---
 
@@ -42,7 +44,8 @@ Building scalable, automated, and cloud-native systems using AWS, Kubernetes, an
 
 - LinkedIn: https://linkedin.com/in/prabesh  
 - GitHub: https://github.com/prabeshbuilds  
-- Email: prabesh@example.com  
+- Email: Prabeshuser407@gmail.com
+- Portfolio: www.prabeshkhatiwada.com.np
 
 ---
 
