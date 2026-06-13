@@ -10,7 +10,7 @@ Building scalable, automated, and cloud-native systems using AWS, Kubernetes, an
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🔭 I’m currently working on AWS, Kubernetes, and Terraform projects  
 - 🌱 I’m currently learning advanced Kubernetes and cloud security  
@@ -20,7 +20,7 @@ Building scalable, automated, and cloud-native systems using AWS, Kubernetes, an
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Cloud & Infrastructure:** AWS, Terraform, Ansible  
 **Containers:** Docker, Kubernetes, Helm  
@@ -32,7 +32,7 @@ Building scalable, automated, and cloud-native systems using AWS, Kubernetes, an
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prabeshbuilds&show_icons=true&theme=default" />
@@ -40,7 +40,7 @@ Building scalable, automated, and cloud-native systems using AWS, Kubernetes, an
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - LinkedIn: https://linkedin.com/in/prabesh  
 - GitHub: https://github.com/prabeshbuilds  
