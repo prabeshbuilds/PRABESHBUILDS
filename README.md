@@ -25,7 +25,7 @@ Building scalable, automated, and cloud-native systems using AWS, Kubernetes, an
 **Cloud & Infra:** AWS, Terraform, Ansible 
 **Containers:** Docker, Kubernetes, Helm  
 **CI/CD:** GitHub Actions, Jenkins, GitLab CI
-**Monitoring:**Prometheus and grafana
+**Monitoring:** Prometheus and grafana
 **Languages:** Python,Node, Bash, Go 
 **Tools:** Linux, Git, GitHub, VS Code  
 
