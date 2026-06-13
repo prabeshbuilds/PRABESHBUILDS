@@ -12,23 +12,23 @@ Building scalable, automated, and cloud-native systems using AWS, Kubernetes, an
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on AWS + Kubernetes + Terraform projects  
-- 🌱 I’m currently learning Advanced Kubernetes & Cloud Security  
-- 👯 I’m looking to collaborate on DevOps and Cloud projects  
-- 💬 Ask me about AWS, Docker, Kubernetes, Terraform, CI/CD  
+- 🔭 I’m currently working on AWS, Kubernetes, and Terraform projects  
+- 🌱 I’m currently learning advanced Kubernetes and cloud security  
+- 👯 I’m looking to collaborate on DevOps and cloud projects  
+- 💬 Ask me about AWS, Docker, Kubernetes, Terraform, and CI/CD  
 - ⚡ Fun fact: I love automating repetitive tasks  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Cloud & Infra:** AWS, Terraform, Ansible 
+**Cloud & Infrastructure:** AWS, Terraform, Ansible  
 **Containers:** Docker, Kubernetes, Helm  
-**CI/CD:** GitHub Actions, Jenkins, GitLab CI
-**Monitoring:** Prometheus and grafana
-**Languages:** Python,Node, Bash, Go 
+**CI/CD:** GitHub Actions, Jenkins, GitLab CI  
+**Monitoring:** Prometheus, Grafana  
+**Project Management:** Jira, ClickUp  
+**Languages:** Python, Node.js, Bash, Go  
 **Tools:** Linux, Git, GitHub, VS Code  
-
 
 ---
 
@@ -44,8 +44,8 @@ Building scalable, automated, and cloud-native systems using AWS, Kubernetes, an
 
 - LinkedIn: https://linkedin.com/in/prabesh  
 - GitHub: https://github.com/prabeshbuilds  
-- Email: Prabeshuser407@gmail.com
-- Portfolio: www.prabeshkhatiwada.com.np
+- Email: prabeshuser407@gmail.com  
+- Portfolio: https://www.prabeshkhatiwada.com.np  
 
 ---
 
