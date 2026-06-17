@@ -16,7 +16,7 @@ Building scalable, automated, and cloud-native systems using AWS, Kubernetes, an
 - 🌱 I’m currently learning advanced Kubernetes and cloud security  
 - 👯 I’m looking to collaborate on DevOps and cloud projects  
 - 💬 Ask me about AWS, Docker, Kubernetes, Terraform, and CI/CD  
-- ⚡ Fun fact: I love automating repetitive tasks  
+- Fun fact: I love automating repetitive tasks  
 
 ---
 
