@@ -10,13 +10,16 @@ Building scalable, automated, and cloud-native systems using AWS, Kubernetes, an
 
 ---
 
-##  About Me
+## About Me
 
-- 🔭 I’m currently working on AWS, Kubernetes, and Terraform projects  
-- 🌱 I’m currently learning advanced Kubernetes and cloud security  
-- 👯 I’m looking to collaborate on DevOps and cloud projects  
-- 💬 Ask me about AWS, Docker, Kubernetes, Terraform, and CI/CD  
-- Fun fact: I love automating repetitive tasks  
+* Passionate about designing scalable, secure, and highly available cloud architectures on AWS
+* Currently working on AWS infrastructure, cloud-native applications, and solution architecture projects
+* Continuously learning advanced AWS services, cloud security, and Well-Architected Framework best practices
+* Open to collaborating on cloud migration, infrastructure modernization, and architecture design projects
+* Ask me about AWS, Solution Architecture, Cloud Computing, Kubernetes, Terraform, and CI/CD
+* Interested in building resilient, cost-optimized, and high-performance cloud solutions
+* Fun fact: I enjoy transforming complex business requirements into simple and scalable cloud architectures
+
 
 ---
 
