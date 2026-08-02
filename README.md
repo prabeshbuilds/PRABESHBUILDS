@@ -45,11 +45,6 @@ Building scalable, automated, and cloud-native systems using AWS, Kubernetes, an
 
 ##  Connect With Me
 
-- LinkedIn: https://linkedin.com/in/prabesh  
-- GitHub: https://github.com/prabeshbuilds  
-- Email: prabeshuser407@gmail.com  
-- Portfolio: https://www.prabeshkhatiwada.com.np  
-
 ---
 
 <p align="center">
