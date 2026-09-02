@@ -17,7 +17,6 @@
 ### 🧭 About Me
 
 - 🔭 Passionate about designing **scalable, secure, and highly available** cloud architectures on AWS
-- 🏗️ Currently building **[MarketKuraa](https://marketkuraa.com)** — a local-first investor community platform, solo, in Django
 - 🌱 Continuously leveling up on AWS Well-Architected Framework, cloud security, and container orchestration
 - 🤝 Open to collaborating on cloud migration, infra modernization, and architecture design projects
 - 💬 Ask me about **AWS, Kubernetes, Terraform, CI/CD, or Django backend architecture**
